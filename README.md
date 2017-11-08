@@ -1,0 +1,2 @@
+# MyConsole
+A console app
